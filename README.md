@@ -1,9 +1,9 @@
-<h1> Página de login do Instagram </h1>
+<h1> Página de login - Instagram </h1>
 <br>
-<h2> Vim compartilhar o desafio feito durante as aulas do DevClub com o professor Rodolfo Mori. </h3>
+<h3>Desafio realizado durante as aulas do DevClub. </h3>
 <br>
 
-<h3> Nesse projeto foi utilizado as seguintes tecnologias  </h3>
+<p> Nesse projeto foi utilizei as seguintes tecnologias  </p>
 
 - <img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt=logo-html /> 
 - <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt=logo-css />
